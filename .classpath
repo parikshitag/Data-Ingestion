@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_60"/>
+	<classpathentry kind="lib" path="D:/MyStuff/Projects/JacksonStream/lib/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/MyStuff/Projects/JacksonStream/lib/jackson-core-2.5.0.jar" sourcepath="D:/MyStuff/Projects/JacksonStream/lib/jackson-core-2.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/MyStuff/Projects/JacksonStream/lib/jackson-databind-2.3.1.jar" sourcepath="D:/MyStuff/Projects/JacksonStream/lib/jackson-databind-2.3.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/ojdbc7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
